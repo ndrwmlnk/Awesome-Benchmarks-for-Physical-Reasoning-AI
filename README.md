@@ -8,6 +8,8 @@
 
 - [x] [Code](https://github.com/facebookresearch/phyre)
 
+![image](https://github.com/ndrwmlnk/Awesome-Physical-Reasoning/assets/39165048/ff8d0e94-a1a4-4a7e-80c2-229b1f84fbe7)
+
 -------
 
 2)
