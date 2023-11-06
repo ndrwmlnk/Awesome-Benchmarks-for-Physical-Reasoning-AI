@@ -32,116 +32,89 @@
 -------
 
 5)
-      []()
+      [CRAFT](https://openreview.net/pdf?id=GVe2IvtZtVY)
 
-- [x] []()
+- [x] [Code](https://github.com/hucvl/craft)
 
 -------
 
 6)
-      []()
+      [ShapeStacks](https://ogroth.github.io/shapestacks/)
 
-- [x] []()
+- [x] [Code](https://github.com/ogroth/shapestacks)
 
 -------
 
 7)
-      []()
+      [SPACE](https://arxiv.org/abs/2108.06180)
 
-- [x] []()
+- [x] [Code](https://github.com/jiafei1224/SPACE)
 
 -------
 
 8)
-      []()
+      [CoPhy](https://projet.liris.cnrs.fr/cophy/)
 
-- [x] []()
+- [x] [Code](https://github.com/fabienbaradel/cophy)
 
 -------
 
 9)
-      []()
+      [IntPhys](https://intphys.cognitive-ml.fr/)
 
-- [x] []()
+- [x] [Code](https://github.com/bootphon/intphys)
 
 -------
 
 10)
-      []()
+      [CATER](https://arxiv.org/abs/1910.04744)
 
-- [x] []()
+- [x] [Code](https://github.com/rohitgirdhar/CATER)
 
 -------
 
 11)
-      []()
+      [CLEVRER](http://clevrer.csail.mit.edu/)
 
-- [x] []()
+- [x] [Code](https://github.com/chuangg/CLEVRER)
 
 -------
 
 12)
-      []()
+      [ComPhy](https://comphyreasoning.github.io/)
 
-- [x] []()
+- [x] [Code](https://github.com/zfchenUnique/compositional_physics_learner)
 
 -------
 
 13)
-      []()
+      [CRIPP-VQA](https://maitreyapatel.com/CRIPP-VQA/)
 
-- [x] []()
+- [x] [Code](https://github.com/Maitreyapatel/CRIPP-VQA/)
 
 -------
 
 14)
-      []()
+      [Physion](https://physion-benchmark.github.io/)
 
-- [x] []()
+- [x] [Code](https://github.com/cogtoolslab/physics-benchmarking-neurips2021)
 
 -------
 
 15)
-      []()
+      [Interactive Language](https://interactive-language.github.io/)
 
-- [x] []()
+- [x] [Code](https://github.com/google-research/language-table)
 
 -------
 
 16)
-      []()
+      [OPEn](https://arxiv.org/abs/2110.06912)
 
-- [x] []()
+- [x] [Code](https://github.com/chuangg/OPEn)
 
--------
 
-17)
-      []()
 
-- [x] []()
-
--------
-
-18)
-      []()
-
-- [x] []()
-
--------
-
-19)
-      []()
-
-- [x] []()
-
--------
-
-20)
-      []()
-
-- [x] []()
-
--------
 
 
 
