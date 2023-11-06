@@ -18,16 +18,16 @@
 -------
 
 3)
-      []()
+      [Phy-q](https://www.nature.com/articles/s42256-022-00583-4)
 
-- [x] []()
+- [x] [Code](https://github.com/phy-q/benchmark)
 
 -------
 
 4)
-      []()
+      [Physical Bongard Problems](https://www.semanticscholar.org/paper/Physical-Bongard-Problems-Weitnauer-Ritter/2d4f4528d018d7a0cdb012b6a296c50cd952425e)
 
-- [x] []()
+- [x] [Code](https://github.com/eweitnauer/PBPs)
 
 -------
 
@@ -74,7 +74,6 @@
 -------
 
 11)
-
       []()
 
 - [x] []()
@@ -89,7 +88,6 @@
 -------
 
 13)
-
       []()
 
 - [x] []()
