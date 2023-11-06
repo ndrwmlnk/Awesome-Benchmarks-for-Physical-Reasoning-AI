@@ -1,1 +1,3 @@
-# Benchmarks-for-Physical-Reasoning-AI
+# Awesome Benchmarks for Physical Reasoning AI
+
+## Benchmarks
