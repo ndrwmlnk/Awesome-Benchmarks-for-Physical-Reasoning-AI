@@ -1,5 +1,8 @@
 # Awesome Benchmarks for Physical Reasoning AI Survey
 
+In this work, we overview existing benchmarks on Physical reasoning tasks, which is a crucial aspect in the development of general AI systems. We overview their solution approaches and propose a unified perspective for measuring the physical reasoning capacity of AI systems. We select benchmarks that are designed to test algorithmic performance in physical reasoning tasks. 
+
+
 ## Benchmarks
 
 
