@@ -144,11 +144,11 @@ In this work, we overview existing benchmarks on Physical reasoning tasks, which
 -------
 
 15)
-      [Interactive Language](https://interactive-language.github.io/)
+      [Language-Table](https://interactive-language.github.io/)
 
 - [x] [Github](https://github.com/google-research/language-table)
 
-![Interactive_Language](https://github.com/ndrwmlnk/Awesome-Physical-Reasoning/assets/39165048/dcae7966-716b-4579-b1ad-5f5623421488)
+![Language-Table](https://github.com/ndrwmlnk/Awesome-Physical-Reasoning/assets/39165048/dcae7966-716b-4579-b1ad-5f5623421488)
 
 -------
 
