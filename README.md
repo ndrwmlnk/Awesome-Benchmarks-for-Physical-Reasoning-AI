@@ -20,7 +20,6 @@ In this work, we overview existing benchmarks on Physical reasoning tasks, which
 
 ![virtual_tools](https://github.com/ndrwmlnk/Awesome-Physical-Reasoning/assets/39165048/207a8ae0-5b69-49ca-99bf-92e03967497e)
 
-
 -------
 
 3)
